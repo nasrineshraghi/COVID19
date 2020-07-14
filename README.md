@@ -1,4 +1,4 @@
-# COVID19
+# COVID19 Confirmed Cases Analysis
 In this project, I analyzed the COVID19 dataset(updated from John Hopkins University) and comped with the happiness world dataset.
 There are three different datasets in this repository based on coronavirus: confirmed, death and recovered cases, which I chose confirmed cases for the first analysis.
 
